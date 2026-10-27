@@ -35,9 +35,9 @@ export const nav = [
 
 export const projects = [
   { title: 'Project One', type: 'Ecommerce Landing Page', tag: 'JavaScript', image: '/public/images/Ecommerce-Landing-Page.png', link: 'https://ecomrece-landing-page.vercel.app/', description: 'Short description.' },
-  { title: 'Project Two', type: 'E-commerce Website', tag: 'Next.js', image: '', link: '#', description: 'Short description.' },
-  { title: 'Project Three', type: 'Dashboard App', tag: 'Node.js', image: '', link: '#', description: 'Short description.' },
-  { title: 'Project Four', type: 'Company Website', tag: 'WordPress', image: '', link: '#', description: 'Short description.' },
+  { title: 'Project Two', type: 'Notes App', tag: 'JavaScript', image: '/public/images/Notes-App.png', link: 'https://notes-app-livid-two-81.vercel.app/', description: 'Short description.' },
+  { title: 'Project Three', type: 'Quiz App', tag: 'JavaScript', image: '/public/images/Quiz-App.png', link: 'https://quiz-application-nine-alpha.vercel.app/', description: 'Short description.' },
+  { title: 'Project Four', type: 'Stop Watch', tag: 'JavaScript', image: '/public/images/Stopwatch.png', link: 'https://stop-watch-chi-beryl.vercel.app/', description: 'Short description.' },
 ]
 
 export const services = [
