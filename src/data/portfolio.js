@@ -34,7 +34,7 @@ export const nav = [
 ]
 
 export const projects = [
-  { title: 'Project One', type: 'SaaS Platform', tag: 'React', image: '', link: '#', description: 'Short description.' },
+  { title: 'Project One', type: 'Ecommerce Landing Page', tag: 'JavaScript', image: '/public/images/Ecommerce-Landing-Page.png', link: 'https://ecomrece-landing-page.vercel.app/', description: 'Short description.' },
   { title: 'Project Two', type: 'E-commerce Website', tag: 'Next.js', image: '', link: '#', description: 'Short description.' },
   { title: 'Project Three', type: 'Dashboard App', tag: 'Node.js', image: '', link: '#', description: 'Short description.' },
   { title: 'Project Four', type: 'Company Website', tag: 'WordPress', image: '', link: '#', description: 'Short description.' },
