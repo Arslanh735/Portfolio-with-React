@@ -81,24 +81,24 @@ export const experience = [
 ]
 
 export const testimonials = [
-  { name: 'Client Name', role: 'CEO, Company', avatar: '', text: 'Write a testimonial from a happy client here. Keep it short and specific.' },
-  { name: 'Client Name', role: 'Founder, Company', avatar: '', text: 'Write a testimonial from a happy client here. Keep it short and specific.' },
-  { name: 'Client Name', role: 'Marketing Director', avatar: '', text: 'Write a testimonial from a happy client here. Keep it short and specific.' },
+  { name: 'Saylani', role: 'CEO, Company', avatar: '', text: 'Great communication and a modern, professional website. Highly recommended!' },
+  { name: 'Hasnain', role: 'Founder, Company', avatar: '', text: 'Delivered a responsive web application with smooth functionality and clean design.' },
+  { name: 'Saylani', role: 'Marketing Director', avatar: '', text: 'Professional, reliable, and focused on turning ideas into practical digital solutions.' },
 ]
 
 export const contact = {
   heading: "Let's build something great",
   text: "Have a project in mind or just want to say hi? I'd love to hear from you.",
-  email: 'hello@example.com',
-  phone: '+1 (234) 567-8901',
-  location: 'City, Country',
+  email: 'arslanh735@gmail.com',
+  phone: '+92 349 117 5954',
+  location: 'Islamabad, Pakistan',
   availability: 'Open for new projects',
   projectTypes: ['Website', 'Web application', 'E-commerce', 'Other'],
 }
 
 export const socials = [
-  { icon: 'github', label: 'GitHub', href: 'https://github.com/' },
-  { icon: 'linkedin', label: 'LinkedIn', href: 'https://linkedin.com/' },
+  { icon: 'github', label: 'GitHub', href: 'https://github.com/Arslanh735' },
+  { icon: 'linkedin', label: 'LinkedIn', href: 'https://www.linkedin.com/in/arslan-haider-704273337/' },
   { icon: 'twitter', label: 'Twitter', href: 'https://twitter.com/' },
   { icon: 'dribbble', label: 'Dribbble', href: 'https://dribbble.com/' },
 ]
