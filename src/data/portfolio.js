@@ -40,6 +40,7 @@ export const projects = [
   { title: 'Project Four', type: 'Stop Watch', tag: 'JavaScript', image: '/public/images/Stopwatch.png', link: 'https://stop-watch-chi-beryl.vercel.app/', description: 'Short description.' },
   { title: 'Project Five', type: 'Calculator App', tag: 'JavaScript', image: '/public/images/Calculator.png', link: 'https://caclutor-app.vercel.app/', description: 'Short description.' },
   { title: 'Project Six', type: 'Signup Form', tag: 'Material UI', image: '/public/images/gaming.png', link: 'https://signup-and-login-form-theta.vercel.app/', description: 'Short description.' },
+  { title: 'Project Seven', type: 'Signup/Login Form', tag: 'HTML,CSS', image: '/public/images/Signup-Login.png', link: 'https://login-and-registration-form-kappa.vercel.app/', description: 'Short description.' },
 ]
 
 export const services = [
@@ -51,9 +52,9 @@ export const services = [
 
 export const skillBars = [
   { name: 'Frontend', level: 95 },
-  { name: 'React / Next.js', level: 90 },
-  { name: 'Backend / APIs', level: 80 },
-  { name: 'Databases', level: 75 },
+  { name: 'React.js', level: 90 },
+  { name: 'Backend / APIs', level: 60 },
+  { name: 'Databases', level: 80 },
   { name: 'DevOps & Tools', level: 70 },
 ]
 export const toolBadges = ['HTML', 'CSS', 'JS', 'TS', 'React', 'Node', 'Git', 'SQL']
@@ -74,9 +75,9 @@ export const process = [
 ]
 
 export const experience = [
-  { role: 'Senior Web Developer', company: 'Company Name', period: '2023 - Present', text: 'Describe what you built and the impact it had.' },
-  { role: 'Full-Stack Developer', company: 'Company Name', period: '2021 - 2023', text: 'Describe what you built and the impact it had.' },
-  { role: 'Junior Developer', company: 'Company Name', period: '2019 - 2021', text: 'Describe what you built and the impact it had.' },
+  { role: 'Senior Web Developer', company: 'Freelance', period: '2024 - Present', text: 'Describe what you built and the impact it had.' },
+  { role: 'Full-Stack Developer', company: 'Saylani Welfare International Trust / Freelancer', period: '2024 - 2026', text: 'Describe what you built and the impact it had.' },
+  { role: 'Junior Developer', company: 'Freelance', period: '2024 - 2025', text: 'Describe what you built and the impact it had.' },
 ]
 
 export const testimonials = [
