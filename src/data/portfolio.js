@@ -39,7 +39,7 @@ export const projects = [
   { title: 'Project Three', type: 'Quiz App', tag: 'JavaScript', image: '/public/images/Quiz.png', link: 'https://quiz-application-nine-alpha.vercel.app/', description: 'Short description.' },
   { title: 'Project Four', type: 'Stop Watch', tag: 'JavaScript', image: '/public/images/Stopwatch.png', link: 'https://stop-watch-chi-beryl.vercel.app/', description: 'Short description.' },
   { title: 'Project Five', type: 'Calculator App', tag: 'JavaScript', image: '/public/images/Calculator.png', link: 'https://caclutor-app.vercel.app/', description: 'Short description.' },
-  { title: 'Project Six', type: 'Signup Form', tag: 'JavaScript', image: '/public/images/gaming.png', link: 'https://signup-and-login-form-theta.vercel.app/', description: 'Short description.' },
+  { title: 'Project Six', type: 'Signup Form', tag: 'Material UI', image: '/public/images/gaming.png', link: 'https://signup-and-login-form-theta.vercel.app/', description: 'Short description.' },
 ]
 
 export const services = [
