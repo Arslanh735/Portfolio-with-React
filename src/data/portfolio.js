@@ -11,7 +11,7 @@ export const profile = {
   eyebrow: "Hi, I'm Arslan Haider",
   headline: ['I build high-impact', 'web applications', 'that drive results'],
   tagline: 'Web Developer crafting fast, scalable websites and software applications with modern technologies.',
-  image: '/public/Avatar.png', // e.g. '/images/me.png' (transparent PNG looks best)
+  image: '/public/images/Avatar.png', // e.g. '/images/me.png' (transparent PNG looks best)
   resumeUrl: '/public/images/Arslan Haider Resume.pdf',
   about: [
     'I’m a passionate Full Stack Developer skilled in building responsive, user-friendly web applications using React, JavaScript, Node.js, and MongoDB.',
@@ -34,13 +34,13 @@ export const nav = [
 ]
 
 export const projects = [
-  { title: 'Project One', type: 'Ecommerce Landing Page', tag: 'JavaScript', image: '/public/ecommerce.png', link: 'https://ecomrece-landing-page.vercel.app/', description: 'Short description.' },
-  { title: 'Project Two', type: 'Notes App', tag: 'JavaScript', image: '/public/sticky.png', link: 'https://notes-app-livid-two-81.vercel.app/', description: 'Short description.' },
-  { title: 'Project Three', type: 'Quiz App', tag: 'JavaScript', image: '/public/quiz.png', link: 'https://quiz-application-nine-alpha.vercel.app/', description: 'Short description.' },
-  { title: 'Project Four', type: 'Stop Watch', tag: 'JavaScript', image: '/public/stopwatch.png', link: 'https://stop-watch-chi-beryl.vercel.app/', description: 'Short description.' },
-  { title: 'Project Five', type: 'Calculator App', tag: 'JavaScript', image: '/public/calculator.png', link: 'https://caclutor-app.vercel.app/', description: 'Short description.' },
-  { title: 'Project Six', type: 'Signup Form', tag: 'Material UI', image: '/public/gaming.png', link: 'https://signup-and-login-form-theta.vercel.app/', description: 'Short description.' },
-  { title: 'Project Seven', type: 'Signup/Login Form', tag: 'HTML,CSS', image: '/public/signup-login.png', link: 'https://login-and-registration-form-kappa.vercel.app/', description: 'Short description.' },
+  { title: 'Project One', type: 'Ecommerce Landing Page', tag: 'JavaScript', image: '/public/images/ecommerce.png', link: 'https://ecomrece-landing-page.vercel.app/', description: 'Short description.' },
+  { title: 'Project Two', type: 'Notes App', tag: 'JavaScript', image: '/public/images/sticky.png', link: 'https://notes-app-livid-two-81.vercel.app/', description: 'Short description.' },
+  { title: 'Project Three', type: 'Quiz App', tag: 'JavaScript', image: '/public/images/quiz.png', link: 'https://quiz-application-nine-alpha.vercel.app/', description: 'Short description.' },
+  { title: 'Project Four', type: 'Stop Watch', tag: 'JavaScript', image: '/public/images/stopwatch.png', link: 'https://stop-watch-chi-beryl.vercel.app/', description: 'Short description.' },
+  { title: 'Project Five', type: 'Calculator App', tag: 'JavaScript', image: '/public/images/calculator.png', link: 'https://caclutor-app.vercel.app/', description: 'Short description.' },
+  { title: 'Project Six', type: 'Signup Form', tag: 'Material UI', image: '/public/images/gaming.png', link: 'https://signup-and-login-form-theta.vercel.app/', description: 'Short description.' },
+  { title: 'Project Seven', type: 'Signup/Login Form', tag: 'HTML,CSS', image: '/public/images/signup-login.png', link: 'https://login-and-registration-form-kappa.vercel.app/', description: 'Short description.' },
 ]
 
 export const services = [
