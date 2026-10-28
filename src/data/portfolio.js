@@ -11,7 +11,7 @@ export const profile = {
   eyebrow: "Hi, I'm Arslan Haider",
   headline: ['I build high-impact', 'web applications', 'that drive results'],
   tagline: 'Web Developer crafting fast, scalable websites and software applications with modern technologies.',
-  image: '/images/Avatar.png', // e.g. '/images/me.png' (transparent PNG looks best)
+  image: '/images/avatar.png', // e.g. '/images/me.png' (transparent PNG looks best)
   resumeUrl: '/images/Arslan Haider Resume.pdf',
   about: [
     'I’m a passionate Full Stack Developer skilled in building responsive, user-friendly web applications using React, JavaScript, Node.js, and MongoDB.',
