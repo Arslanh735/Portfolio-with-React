@@ -81,8 +81,8 @@ export const experience = [
 ]
 
 export const testimonials = [
-  { name: 'Saylani', role: 'CEO, Company', avatar: '', text: 'Great communication and a modern, professional website. Highly recommended!' },
   { name: 'Hasnain', role: 'Founder, Company', avatar: '', text: 'Delivered a responsive web application with smooth functionality and clean design.' },
+  { name: 'Saylani', role: 'CEO, Company', avatar: '', text: 'Great communication and a modern, professional website. Highly recommended!' },
   { name: 'Saylani', role: 'Marketing Director', avatar: '', text: 'Professional, reliable, and focused on turning ideas into practical digital solutions.' },
 ]
 
