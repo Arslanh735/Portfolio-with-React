@@ -34,7 +34,7 @@ export const nav = [
 ]
 
 export const projects = [
-  { title: 'Project One', type: 'Pending DN Management', tag: 'JavaScript', image: '/images/tokens-app.png', link: 'https://script.google.com/a/macros/saylaniwelfare.com/s/AKfycbys3tAUsOsjMxQqaqZm5spCH-H0Xi7KJXeMB3m60l9igeSblubXJtOUp43Oib786Llgxg/exec', description: 'Created in google sheets using App Script.' },
+  { title: 'Project One', type: 'Pending DN Management', tag: 'JavaScript', image: '/images/tokens-app.png', link: 'https://script.google.com/macros/s/AKfycbxxA2OsAW84Q7vtWVoiELfRzNbsfpZCxgZIGQfSQsCawZ6alP7n6ehm1OFDV_GcztkF-w/exec', description: 'Created in google sheets using App Script.' },
   { title: 'Project One', type: 'Ecommerce Landing Page', tag: 'JavaScript', image: '/images/ecommerce.png', link: 'https://ecomrece-landing-page.vercel.app/', description: 'Short description.' },
   { title: 'Project Two', type: 'Notes App', tag: 'JavaScript', image: '/images/sticky.png', link: 'https://notes-app-livid-two-81.vercel.app/', description: 'Short description.' },
   { title: 'Project Three', type: 'Quiz App', tag: 'JavaScript', image: '/images/quiz.png', link: 'https://quiz-application-nine-alpha.vercel.app/', description: 'Short description.' },
